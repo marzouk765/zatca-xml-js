@@ -79,6 +79,9 @@ await egs.issueProductionCertificate(compliance_rid);
 await egs.reportInvoice(signed_invoice_string, invoice_hash);
 ```
 
+## API Reference
+- See the full API docs under <a href="/docs/api/README.md">docs/api</a>.
+
 # Implementation
 - General implementation (<a href="/docs/20220624_ZATCA_Electronic_Invoice_XML_Implementation_Standard_vF.pdf">More details</a>)
     - KSA Rules & Business
