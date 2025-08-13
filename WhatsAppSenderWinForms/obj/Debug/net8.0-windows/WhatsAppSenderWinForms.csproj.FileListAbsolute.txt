@@ -1,0 +1,15 @@
+/workspace/WhatsAppSenderWinForms/bin/Debug/net8.0-windows/WhatsAppSenderWinForms
+/workspace/WhatsAppSenderWinForms/bin/Debug/net8.0-windows/WhatsAppSenderWinForms.deps.json
+/workspace/WhatsAppSenderWinForms/bin/Debug/net8.0-windows/WhatsAppSenderWinForms.runtimeconfig.json
+/workspace/WhatsAppSenderWinForms/bin/Debug/net8.0-windows/WhatsAppSenderWinForms.dll
+/workspace/WhatsAppSenderWinForms/bin/Debug/net8.0-windows/WhatsAppSenderWinForms.pdb
+/workspace/WhatsAppSenderWinForms/obj/Debug/net8.0-windows/WhatsAppSenderWinForms.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/WhatsAppSenderWinForms/obj/Debug/net8.0-windows/WhatsAppSenderWinForms.AssemblyInfoInputs.cache
+/workspace/WhatsAppSenderWinForms/obj/Debug/net8.0-windows/WhatsAppSenderWinForms.AssemblyInfo.cs
+/workspace/WhatsAppSenderWinForms/obj/Debug/net8.0-windows/WhatsAppSenderWinForms.csproj.CoreCompileInputs.cache
+/workspace/WhatsAppSenderWinForms/obj/Debug/net8.0-windows/WhatsAppSenderWinForms.sourcelink.json
+/workspace/WhatsAppSenderWinForms/obj/Debug/net8.0-windows/WhatsAppSenderWinForms.dll
+/workspace/WhatsAppSenderWinForms/obj/Debug/net8.0-windows/refint/WhatsAppSenderWinForms.dll
+/workspace/WhatsAppSenderWinForms/obj/Debug/net8.0-windows/WhatsAppSenderWinForms.pdb
+/workspace/WhatsAppSenderWinForms/obj/Debug/net8.0-windows/WhatsAppSenderWinForms.genruntimeconfig.cache
+/workspace/WhatsAppSenderWinForms/obj/Debug/net8.0-windows/ref/WhatsAppSenderWinForms.dll
